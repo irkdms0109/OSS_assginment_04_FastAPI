@@ -1,0 +1,32 @@
+[
+  {
+    "course_name": "자료구조",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "모바일프로그래밍",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "데이터마이닝",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "데이터베이스",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "객체지향프로그래밍",
+    "year": "2025",
+    "semester": "1",
+    "grade": "A+"
+  }
+]
